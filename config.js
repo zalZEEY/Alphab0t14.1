@@ -11,10 +11,10 @@ global.APIs = {
 // Free apikey
 global.APIKeys = {
 	'https://api-alphabot.herokuapp.com': 'Alphabot',
-	'https://zeks.me': 'Alphabott',
+	'https://zeks.me': 'SADLAREZZEEY',
 }
 
-global.owner = ['62887435047326','918156874290']
+global.owner = ['62895395165760','0']
 global.packname = setting.botname
 global.author = setting.ownername
 global.alphaVersion = [2, 2143, 3]
